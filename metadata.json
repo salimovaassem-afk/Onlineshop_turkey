@@ -1,0 +1,6 @@
+{
+  "name": "ASSEMOK — Турциядан тапсырыспен киім және аяқ киім",
+  "description": "Прямые заказы одежды, обуви и аксессуаров из Турции (Стамбул). Оплата товара на Kaspi 87022024120, доставка по Атырау и всему Казахстану.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

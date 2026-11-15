@@ -1,0 +1,122 @@
+{
+  "products": [
+    {
+      "id": "tr-trench-camel",
+      "title": "Двубортный шерстяной тренч Nişantaşı",
+      "category": "outerwear",
+      "audience": "women",
+      "priceKzt": 68500,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Кэмел",
+      "description": "Классический двубортный тренч из турецкой смесовой шерсти премиум-качества. Идеальная посадка по фигуре, роговые пуговицы, плотная подкладка. Прямой выкуп из бутика в Стамбуле.",
+      "imageUrl": "/src/assets/images/prod_trench_camel_1794738820465.jpg",
+      "availability": "preorder_istanbul",
+      "origin": "Стамбул, Турция",
+      "createdAt": "2026-11-10T10:00:00.000Z"
+    },
+    {
+      "id": "tr-loafers-espresso",
+      "title": "Лоферы из натуральной кожи Istanbul Atelier",
+      "category": "footwear",
+      "audience": "women",
+      "priceKzt": 42000,
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "color": "Эспрессо",
+      "description": "Турецкие лоферы ручной работы из мягкой телячьей кожи с латунной пряжкой. Анатомическая кожаная стелька и износостойкая подошва.",
+      "imageUrl": "/src/assets/images/prod_loafers_leather_1794738819953.jpg",
+      "availability": "preorder_istanbul",
+      "origin": "Стамбул, Турция",
+      "createdAt": "2026-11-10T09:50:00.000Z"
+    },
+    {
+      "id": "tr-knit-set-oat",
+      "title": "Трикотажный костюм-двойка Ribbed Cashmere",
+      "category": "clothing",
+      "audience": "women",
+      "priceKzt": 36900,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "color": "Молочный беж",
+      "description": "Мягкий костюм в рубчик из турецкого хлопка с добавлением кашемира: кардиган на перламутровых пуговицах и широкие брюки комфортной посадки.",
+      "imageUrl": "/src/assets/images/prod_knit_set_1794738822152.jpg",
+      "availability": "preorder_istanbul",
+      "origin": "Стамбул, Турция",
+      "createdAt": "2026-11-10T09:40:00.000Z"
+    },
+    {
+      "id": "tr-sneakers-white",
+      "title": "Кожаные кеды Minimalist Beyoğlu",
+      "category": "footwear",
+      "audience": "men",
+      "priceKzt": 39500,
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "color": "Белый / Замша",
+      "description": "Универсальные кеды из гладкой турецкой натуральной кожи с замшевым задником. Лёгкая прошитая подошва, комфорт на весь день.",
+      "imageUrl": "/src/assets/images/prod_sneakers_white_1794738821719.jpg",
+      "availability": "preorder_istanbul",
+      "origin": "Стамбул, Турция",
+      "createdAt": "2026-11-10T09:30:00.000Z"
+    },
+    {
+      "id": "tr-bag-taupe",
+      "title": "Сумка кросс-боди из кожи Deri Istanbul",
+      "category": "accessories",
+      "audience": "women",
+      "priceKzt": 44500,
+      "sizes": [
+        "One Size"
+      ],
+      "color": "Тауп",
+      "description": "Структурированная сумка из зернистой турецкой кожи с матовой золотистой фурнитурой и регулируемым плечевым ремнём.",
+      "imageUrl": "/src/assets/images/prod_leather_bag_1794738822651.jpg",
+      "availability": "preorder_istanbul",
+      "origin": "Стамбул, Турция",
+      "createdAt": "2026-11-10T09:20:00.000Z"
+    },
+    {
+      "id": "tr-suede-bomber-men",
+      "title": "Мужской замшевый бомбер Karaköy",
+      "category": "outerwear",
+      "audience": "men",
+      "priceKzt": 74000,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "color": "Графит",
+      "description": "Премиальная мужская куртка-бомбер из мягкой турецкой экозамши высокого класса с двойной металлической молнией.",
+      "imageUrl": "/src/assets/images/prod_mens_jacket_1794738822218.jpg",
+      "availability": "preorder_istanbul",
+      "origin": "Стамбул, Турция",
+      "createdAt": "2026-11-10T09:10:00.000Z"
+    }
+  ],
+  "orders": []
+}
