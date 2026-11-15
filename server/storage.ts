@@ -149,7 +149,9 @@ const KV_PRODUCTS_KEY = 'assemok:products';
 const KV_ORDERS_KEY = 'assemok:orders';
 
 function getLocalStorePaths(): { dir: string; file: string; uploadsDir: string } {
-  const isServerless = Boolean(process.env.VERCEL || process.env.AWS_LAMBDA_FUNCTION_NAME);
+  const isServerless = Boolean(
+    process.env.VERCEL || process.env.NETLIFY || process.env.AWS_LAMBDA_FUNCTION_NAME
+  );
   const dir = isServerless ? '/tmp/assemok-data' : path.resolve(process.cwd(), 'data');
   return {
     dir,

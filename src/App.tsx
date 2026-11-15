@@ -42,10 +42,14 @@ export default function App() {
     try {
       const res = await fetch('/api/products');
       if (!res.ok) return;
+      const contentType = res.headers.get('content-type') || '';
+      if (!contentType.includes('application/json')) return;
       const data = await res.json();
       if (Array.isArray(data.products)) {
         setProducts(data.products);
       }
+    } catch {
+      // keep existing state if network/API is temporarily unavailable
     } finally {
       setLoadingProducts(false);
     }
